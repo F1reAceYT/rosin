@@ -1,0 +1,7 @@
+.DS_Store
+**/*.rs.bk
+/.vscode
+/mutants.out
+/target
+Cargo.lock
+tarpaulin-report.html
